@@ -13,7 +13,7 @@ workflows:
       vars:
         APP_STORE_APPLE_ID: 6764898637
         BUNDLE_ID: 'com.uiqjf.ewipja.sdioq.sdfohq'
-        XCODE_WORKSPACE: 'QuickWaysSmartChoices'
+        XCODE_WORKSPACE: 'QuickWaysSmartChoices.xcworkspace'
         XCODE_SCHEME: 'QuickWaysSmartChoices'
     scripts:
       - name: Install node modules
